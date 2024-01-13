@@ -27,3 +27,6 @@ undetected-chromedriver
 asyncstdlib
 async_property
 bs4
+Flask
+flask-cors
+Gunicorn
